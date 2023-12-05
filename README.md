@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dtutila-amherst
 - 👀 I’m interested in code, data and integrations
-- 📫 How to reach me dtutila@fortimize.com dtutila@amherst.com
+- 📫 How to reach me dtutila@fortimize.com  or dtutila@amherst.com
 
 <!---
 dtutila-amherst/dtutila-amherst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
